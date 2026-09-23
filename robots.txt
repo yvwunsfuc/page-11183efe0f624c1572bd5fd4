@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xn--stashbox-le7n539j.com/sitemap.xml

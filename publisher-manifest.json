@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "9d39217908ec48e264b973b1",
+  "owner": "yvwunsfuc",
+  "repo": "page-11183efe0f624c1572bd5fd4",
+  "title": "我爱嘉源",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "11183efe0f624c1572bd5fd4",
+      "a": "我爱嘉源",
+      "b": "2027最新官网",
+      "entity": "我爱嘉源",
+      "brand": "我爱嘉源",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4140f052cb8426217adc49e972192b0028f0c6115ca863f1ec670cbb1d803b74",
+      "content": {
+        "primary_entity": "我爱嘉源",
+        "keyword1": "我爱嘉源",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，订阅配置方式略有差异。",
+          "AI_CLIENTS_TITLE": "客户端与设备适配",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求选定套餐，按客户端文档完成订阅配置即可启用。",
+          "AI_CLOSING_TITLE": "选对套餐，配置订阅",
+          "AI_DESCRIPTION": "，面向有跨境访问需求的用户，提供基础版、旗舰版、团队版三档订阅方案。基础版每月100GB流量、3台设备在线；旗舰版每月300GB流量、5台设备在线，并带IPLC专线游戏加速优化；团队版每月1000GB流量、20台设备在线，配有VIP专属高带宽节点。按年付可享更优惠的年费价格，设备多或流量消耗大时可按需选择。",
+          "AI_FEATURES_INTRO": "从流量额度、设备数量与订阅周期三个维度对比，选出合适的一档。",
+          "AI_FEATURES_TITLE": "选择套餐的关注点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB流量，适合一到两人日常浏览与轻量视频。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月300GB流量，支持5台设备，IPLC专线对游戏延迟更友好。",
+          "AI_FEATURE_TEXT_3": "团队版每月1000GB流量，支持20台设备，可满足多人或企业定制路由。",
+          "AI_FEATURE_TITLE_1": "流量额度",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "订阅周期与场景",
+          "AI_GUIDE_INTRO": "三步完成套餐认知与订阅配置，先确认需求再动手。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_HERO_INTRO": "我爱嘉源提供多档海外加速订阅，按流量、设备数量与线路类型区分。基础版适合轻量使用，旗舰版强化流媒体与游戏加速，团队版面向多人共享与企业路由需求。",
+          "AI_HERO_SUBTITLE": "多档订阅，按需加速",
+          "AI_HIGHLIGHT_1": "基础版每月100GB流量，3台设备在线",
+          "AI_HIGHLIGHT_2": "旗舰版每月300GB流量，5台设备在线",
+          "AI_HIGHLIGHT_3": "团队版每月1000GB流量，20台设备在线",
+          "AI_PLANS_INTRO": "三档套餐按流量与设备数量阶梯划分，按年付价格更低。基础版¥15/月或¥150/年；旗舰版¥35/月或¥350/年；团队版¥85/月或¥850/年。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "对照基础版、旗舰版、团队版的流量额度与设备数量，确认自己的使用场景。",
+          "AI_STEP_TEXT_2": "查看所选套餐对设备系统和客户端的要求，确认手头设备能满足配置条件。",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅链接，完成账户登录与节点选择。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "我爱嘉源 海外加速订阅",
+          "AI_FAQ_ANSWER_1": "同一时间在线的设备数量由套餐决定，基础版 3 台、旗舰版 5 台、团队版 20 台。更换设备时退出旧设备再登录新设备即可。",
+          "AI_FAQ_ANSWER_2": "按年付比按月付更省，基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，适合长期稳定使用的用户。",
+          "AI_FAQ_ANSWER_3": "旗舰版包含 IPLC 专线节点，对延迟敏感的游戏和实时通信有一定优化，团队版提供 VIP 高带宽节点，可根据需求选择。",
+          "AI_FAQ_ANSWER_4": "在客户端中新建订阅并粘贴订阅链接，然后更新节点列表。不同客户端操作略有差异，参照对应客户端文档配置即可。",
+          "AI_FAQ_ANSWER_5": "基础版适合个人轻度使用，旗舰版适合多设备与流媒体需求，团队版适合多人共享或企业场景，按设备数和流量挑选即可。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个账号可以同时登录几台设备？",
+          "AI_FAQ_QUESTION_2": "按月付和按年付有什么区别？",
+          "AI_FAQ_QUESTION_3": "不同套餐的线路有区别吗？",
+          "AI_FAQ_QUESTION_4": "如何在客户端导入订阅？",
+          "AI_FAQ_QUESTION_5": "怎样判断哪个套餐适合自己？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--stashbox-le7n539j.com",
+    "host": "xn--stashbox-le7n539j.com"
+  },
+  "file_hashes": {
+    "index.html": "550aa105f86e0c02c4f75d42288a807fb75164da30a3c91c3da8dd5e867a5916",
+    "sitemap.xml": "a757a972aca4046a25aafdb5aca0efc055adb4afca05af276fc9297ca48538fd",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "22d3f0d174b31981ab72b1fe9e91c5fa9152ce03b01c282f598e78b80bf921c6",
+    "robots.txt": "552a3f0dc9e8f85db1a68c51632bf4a9bd814771d15d4dfa771365d8fdae2470",
+    "d3538fba40f5405589fac2327fae0bd5.txt": "b9f5842cbebe1b42fb304984a340338a0a0dabec84aaa180848498d882c1c050"
+  },
+  "revision": "ddfd32febea3b06d47dc7eb83a7ff54ddf25656298298ca534306367ab5e58b3"
+}
